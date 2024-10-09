@@ -1,0 +1,11 @@
+html {
+  background-color: hsla(0, 0%, 11%, 1);
+  color: hsla(60, 100%, 98%, 1);
+  overflow: hidden;
+  font-family: "Roboto", sans-serif;
+}
+
+header {
+  display: flex;
+  border: red solid 1px;
+}
