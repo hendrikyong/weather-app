@@ -43,5 +43,22 @@ html {
 }
 
 main {
-  border: red solid 3px;
+  padding: 0px 24px;
+}
+
+.content {
+  border: yellow solid 1px;
+  display: flex;
+  justify-content: space-between;
+  height: 450px;
+}
+
+.side-content {
+  border: red solid 2px;
+  width: 30%;
+}
+
+.main-content {
+  border: blue solid 2px;
+  width: 65%;
 }
